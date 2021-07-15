@@ -1,0 +1,53 @@
+body{
+  background-color:#FEF7DC;
+  align-items: center;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color:grey;
+  width: 30%;
+}
+h3{
+  color: #865439;
+  font-family: cursive;
+
+}
+td{
+  text-align: left;
+  font-family: cursive;
+  color: #FFBD9B;
+}
+ul{
+  text-align:justify;
+  font-family: cursive;
+  color: #FFBD9B;
+  list-style-position: inside;
+}
+ol{
+  text-align:justify;
+  font-family: cursive;
+  color: #FFBD9B;
+  list-style-position: inside;
+}
+th{
+  color: #C68B59;
+}
+/****Class selectore****/
+.table1{
+  text-align: center;
+}
+.heading{
+  color: #5D534A;
+  font-family: cursive;
+}
+.heading3{
+  text-align: justify;
+  font-family: cursive;
+}
+#info{
+  font-style: italic;
+  font-family: cursive;
+
+}
